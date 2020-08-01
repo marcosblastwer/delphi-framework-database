@@ -1,2 +1,2 @@
-# delphi-standard-database
-Standard database
+# delphi-framework-database
+Standard multi-database manager
